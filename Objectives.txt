@@ -1,0 +1,4 @@
+OKR
+Objective and Key result
+Objective: to better understand the concept of state in react.
+Key results: understanding and being able to debbug state code.
